@@ -1,5 +1,5 @@
 # Yashika_Sagar13
-[![MasterHead](https://github.com/Yashika-Sagar13/Yashika_Sagar13/assets/136553883/caad37ed-45a6-42b4-9afa-dce8d20a7625)
+
 <h1 align="center">Hi 👋, I'm Yashika Sagar</h1>
 <h3 align="center">A Passionate CSEAI student diving into frontend development and mastering data structures & algorithms.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Yashika-Sagar13/Yashika_Sagar13/assets/136553883/743ed34f-b957-4a2b-ab9a-3096bd5c8bdc">
