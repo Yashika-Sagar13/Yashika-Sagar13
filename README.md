@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashika Sagar</h1>
 <h3 align="center">A Passionate CSEAI student diving into frontend development and mastering data structures & algorithms.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Yashika-Sagar13/Yashika_Sagar13/assets/136553883/743ed34f-b957-4a2b-ab9a-3096bd5c8bdc">
+<img align="right" alt="coding" width="400" src="https://github.com/Yashika-Sagar13/Yashika-Sagar13/assets/136553883/06a0e083-0e9d-405d-b4c3-1790d39a31ba">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashika-sagar13&label=Profile%20views&color=0e75b6&style=flat" alt="yashika-sagar13" /> </p>
